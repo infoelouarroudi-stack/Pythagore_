@@ -1,4 +1,5 @@
-# Cours de Mathématiques – Niveau 4ème
+# Cours de Mathématiques 
+
 ## Durée : 1h30
 
 **Thèmes :** Théorème de Pythagore et Nombres relatifs
